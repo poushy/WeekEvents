@@ -1,0 +1,13 @@
+.week span{
+    border: 1px solid #333;
+    padding: 2px 5px;
+    cursor: pointer;
+}
+
+.week span:hover {
+    background-color: #c9c9c9;
+}
+
+.week span.selected {
+    background-color: aquamarine;
+}
